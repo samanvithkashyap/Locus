@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+outputs/encodings.pickle
+outputs/attendance_*.csv
+venv/
+.env
+dataset/
